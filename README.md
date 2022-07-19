@@ -1,2 +1,2 @@
-# news-ip
-news-ip/typescript
+# news-JS
+https://stupendous-marshmallow-52eb9b.netlify.app/
